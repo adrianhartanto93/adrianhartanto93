@@ -3,8 +3,7 @@
 
 🔭 I’m currently working at Cognite Data as a DBRE (Database Reliability Engineer)
 
-🎲 In my free time: I’m a prediction market and directional bias trader on  
-https://polymarket.com/@BingChilling
+🎲 In my free time: I’m a prediction market and directional bias trader on https://polymarket.com/@BingChilling
 
 ---
 
