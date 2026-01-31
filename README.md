@@ -2,6 +2,8 @@
 
 🔭 I’m currently working at **Cognitedata** as a **DBRE (Database Reliability Engineer)**
 
+🎲 In my free time: I’m a prediction market and directional bias trader on [polymarket.com/@BingChilling](https://polymarket.com/@BingChilling)
+
 💾 I spend most of my time working with:
 - PostgreSQL (scaling, performance, upgrades, partitioning)
 - Kubernetes & cloud infrastructure
