@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi, I’m Adrian
 
-<!--
-**adrianhartanto93/adrianhartanto93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working at **Cognitedata** as a **DBRE (Database Reliability Engineer)**
 
-Here are some ideas to get you started:
+💾 I spend most of my time working with:
+- PostgreSQL (scaling, performance, upgrades, partitioning)
+- Kubernetes & cloud infrastructure
+- Automation, reliability, and observability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ I enjoy:
+- Making databases boring (stable, fast, predictable)
+- Automating anything that looks repetitive
+- Digging into performance issues and weird edge cases
+
+📈 Currently exploring:
+- Quantitative models for prediction markets
+- Market-data-driven directional bias strategies
+- Weather Forecast
