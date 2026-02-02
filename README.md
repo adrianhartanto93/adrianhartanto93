@@ -1,7 +1,7 @@
 👋 Hi, I’m Adrian  
 ---
 
-🔭 I’m currently working at Cognite Data as a DBRE (Database Reliability Engineer)
+🔭 I’m currently working at Cognitedata as a DBRE (Database Reliability Engineer)
 
 ---
 
